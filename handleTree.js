@@ -65,8 +65,8 @@ fs.writeFile('./clients.html', content, err => {
 
 const options = {
     files: './README.md',
-    from: /#--([\s\S]*?)#--/gm,
-    to: `#-- \n ${content} \n #--`,
+    from: /--Marcas--([\s\S]*?)--Fim Marcas--/gm,
+    to: `--Marcas-- \n ${content} \n --Fim Marcas--`,
 };
 
 try {

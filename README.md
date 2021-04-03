@@ -11,7 +11,7 @@ Lista das diferentes marcas e submarcas para as que temos desenvolvidas campanha
 * **Vodafone**
   * [5G Launch](https://display-ads.vercel.app/Vodafone/5G%20Launch/index.html) ([source](https://github.com/Wunderman-Thompson-Portugal/Display/tree/main/Vodafone/5G%20Launch))
 
-#-- 
+--Marcas-- 
  * **Nova** 
    * [Teste](brands/Nova/Teste) :file_folder: 
 * **Vodafone** 
@@ -23,4 +23,4 @@ Lista das diferentes marcas e submarcas para as que temos desenvolvidas campanha
    * [Observatório](brands/Vodafone/Observat%C3%B3rio) :file_folder: 
    * [index.html](brands/Vodafone/index.html) :page_facing_up: 
  
- #--
+ --Fim Marcas--
