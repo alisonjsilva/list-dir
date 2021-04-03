@@ -21,6 +21,7 @@ Lista das diferentes marcas e submarcas para as que temos desenvolvidas campanha
          * [index.html](brands/Vodafone/5G%20Launch/Publishers/index.html) :page_facing_up: 
       * [index.html](brands/Vodafone/5G%20Launch/index.html) :page_facing_up: 
    * [Observatório](brands/Vodafone/Observat%C3%B3rio) :file_folder: 
+      * [index.html](brands/Vodafone/Observat%C3%B3rio/index.html) :page_facing_up: 
    * [index.html](brands/Vodafone/index.html) :page_facing_up: 
  
  --Fim Marcas--
